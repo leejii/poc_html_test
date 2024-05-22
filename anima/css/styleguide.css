@@ -1,0 +1,225 @@
+:root { 
+  --accentorangeorange-100: #000000;
+  --accentorangeorange-200: #000000;
+  --accentorangeorange-300: #000000;
+  --accentorangeorange-400: #000000;
+  --accentorangeorange-50: #000000;
+  --accentorangeorange-500: #000000;
+  --accentorangeorange-600: #000000;
+  --accentorangeorange-700: #000000;
+  --accentorangeorange-800: #000000;
+  --accentorangeorange-900: #000000;
+  --accentpinkpink-100: #000000;
+  --accentpinkpink-200: #000000;
+  --accentpinkpink-300: #000000;
+  --accentpinkpink-400: #000000;
+  --accentpinkpink-50: #000000;
+  --accentpinkpink-500: #000000;
+  --accentpinkpink-600: #000000;
+  --accentpinkpink-700: #000000;
+  --accentpinkpink-800: #000000;
+  --accentpinkpink-900: #000000;
+  --accentredred-100: #000000;
+  --accentredred-200: #000000;
+  --accentredred-300: #000000;
+  --accentredred-400: #000000;
+  --accentredred-50: #000000;
+  --accentredred-500: #000000;
+  --accentredred-600: #000000;
+  --accentredred-700: #000000;
+  --accentredred-800: #000000;
+  --accentredred-900: #000000;
+  --accentteal-blueblue-500: #23728c;
+  --accentteal-blueblue-600: #20687f;
+  --accentyellowyellow-100: #000000;
+  --accentyellowyellow-200: #000000;
+  --accentyellowyellow-300: #000000;
+  --accentyellowyellow-400: #000000;
+  --accentyellowyellow-50: #000000;
+  --accentyellowyellow-500: #000000;
+  --accentyellowyellow-600: #000000;
+  --accentyellowyellow-700: #000000;
+  --accentyellowyellow-800: #000000;
+  --accentyellowyellow-900: #000000;
+  --alice-blue: #f0f4fe;
+  --alto: #d9d9d9;
+  --basecool-graycool-gray-200: #c3c9d1;
+  --baseneutralneutral-0: #000000;
+  --baseneutralneutral-10: #000000;
+  --baseneutralneutral-100: #000000;
+  --baseneutralneutral-12: #000000;
+  --baseneutralneutral-17: #000000;
+  --baseneutralneutral-20: #000000;
+  --baseneutralneutral-22: #000000;
+  --baseneutralneutral-24: #000000;
+  --baseneutralneutral-30: #000000;
+  --baseneutralneutral-4: #000000;
+  --baseneutralneutral-40: #000000;
+  --baseneutralneutral-50: #000000;
+  --baseneutralneutral-6: #000000;
+  --baseneutralneutral-60: #000000;
+  --baseneutralneutral-70: #000000;
+  --baseneutralneutral-80: #000000;
+  --baseneutralneutral-87: #000000;
+  --baseneutralneutral-90: #000000;
+  --baseneutralneutral-92: #000000;
+  --baseneutralneutral-94: #000000;
+  --baseneutralneutral-95: #000000;
+  --baseneutralneutral-96: #000000;
+  --baseneutralneutral-99: #000000;
+  --baseslate-blueslate-blue-500: #67657a;
+  --baseslate-blueslate-blue-900: #2b2a33;
+  --black-pearl: #0a0f2933;
+  --black-pearl-2: #0a0f2924;
+  --black-pearl-3: #0a0f2914;
+  --black-pearl-4: #0a0f290a;
+  --black-pearl-5: #0a0f2940;
+  --black-pearl-6: #0a0f294c;
+  --cararra: #ececec;
+  --ghost: #c7c9d0;
+  --jungle-mist: #b1d1dd;
+  --mercury: #e7e7e7;
+  --neurialgreygrey-200: #b6b7b9;
+  --neurialgreygrey-300: #949698;
+  --neurialgreygrey-600: #57595d;
+  --neurialgreygrey-800: #353638;
+  --neurialgreygrey-900: #28292b;
+  --quill-gray: #d6d6d633;
+  --shark: #27282a;
+  --shark-2: #202124;
+  --spindle: #b4c7f8;
+  --textbaseprimary: #2b2a33;
+  --textbasesecondary: #67657a;
+  --textbasetertiary: #a09fad;
+  --torea-bay: #13399a;
+  --vulcan: #141519;
+  --vulcan-2: #0f132499;
+  --vulcan-3: #0f1324cc;
+  --vulcan-4: #0d11260d;
+  --white: #ffffff;
+  --white-lilac: #f8f8fa;
+ 
+  --font-size-24px: 24px;
+  --font-size-l: 13px;
+  --font-size-m: 12px;
+  --font-size-s: 11px;
+  --font-size-xl: 15px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 17px;
+  --font-size-xxxl: 20px;
+ 
+  --font-family-pretendard-bold: "Pretendard-Bold", Helvetica;
+  --font-family-pretendard-regular: "Pretendard-Regular", Helvetica;
+  --font-family-pretendard-semibold: "Pretendard-SemiBold", Helvetica;
+}
+.mheadlinesmall {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-24px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mheadlinesmall-bold {
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-24px);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+
+.mtitlemedium {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mtitlesmall {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mtitlesmall-bold {
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.mbodylarge-bold {
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+
+.mbodymedium {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mbodysmall {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mbodymedium-semi {
+  font-family: var(--font-family-pretendard-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
+
+.mlabelmedium-bold {
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.mlabelsmall-1 {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.mlabelsmall-bold {
+  font-family: var(--font-family-pretendard-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.mlabelsmall-2 {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.mlabelsmall-3 {
+  font-family: var(--font-family-pretendard-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
